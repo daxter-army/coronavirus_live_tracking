@@ -1,2 +1,7 @@
-# Coronavirus-live-tracking
- A live tracking coronavirus web app made with React + Hooks, which shows stats from all over the world, country-wise also
+# Corona-viros 🦠
+A React App made with the help Hooks + API
+
+Made by Mehul Singh Teya
+
+# Start
+use command "npm start" to start the app, then go to http://localhost:3000
